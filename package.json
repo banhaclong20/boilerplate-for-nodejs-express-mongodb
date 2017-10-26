@@ -1,7 +1,7 @@
 {
   "name": "sharegits",
   "version": "1.0.0",
-  "description": "Share your Gits - Code Snippet",
+  "description": "A boilerplate application for building web apps using express, mongoose and passport.",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
